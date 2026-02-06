@@ -1,6 +1,6 @@
 # ASI V7 - Production Artificial Superintelligence System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
 
@@ -88,4 +88,7 @@ A custom training loop built from scratch (not just `Trainer` wrapper) to ensure
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+Copyright (c) 2026 **Shivay Singh Rajput**. All Rights Reserved.
+
+This software is the proprietary intellectual property of Shivay Singh Rajput.
+Unauthorized copying, distribution, or modification of this file, via any medium, is strictly prohibited.
