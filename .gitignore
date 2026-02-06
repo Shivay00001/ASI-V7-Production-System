@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+asi_v7_checkpoints/
+*.tmp
+.env
+.DS_Store
